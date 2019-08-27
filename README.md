@@ -3,6 +3,7 @@ micro-frontend base on single-spa
 
 ### architecuture pic
 
+<img src="./assets/micro-frontend.png" />
 
 
 #### related sites
