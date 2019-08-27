@@ -3,7 +3,7 @@ micro-frontend base on single-spa
 
 ### architecuture pic
 
-<img src="./assets/micro-frontend.png" />
+<img src="https://github.com/houyaowei/single-spa-micro-frontend/blob/master/assets/Micro-frontend.png" />
 
 
 #### related sites
