@@ -19,7 +19,7 @@ const appRoutes: Routes = [
     component: Subroute2
   }
 ];
-enableProdMode();
+// enableProdMode();
 
 @NgModule({
   imports: [
@@ -30,10 +30,10 @@ enableProdMode();
     NgReduxModule
   ],
   providers: [
-    // {
-    //   provide: APP_BASE_HREF,
-    //   useValue: "/a7App/"
-    // },
+    {
+      provide: APP_BASE_HREF,
+      useValue: "/"
+    },
     CounterActions,
     Globals
   ],
