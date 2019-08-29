@@ -74,6 +74,18 @@ module.exports = {
         pathRewrite: function(url) {
           return url.replace(/\/vueApp/, "");
         }
+      },
+      "/a1App": {
+        target: "http://localhost:9003",
+        pathRewrite: function(url) {
+          return url.replace(/\/a1App/, "");
+        }
+      },
+      "/a7App": {
+        target: "http://localhost:9004",
+        pathRewrite: function(url) {
+          return url.replace(/\/a7App/, "");
+        }
       }
     }
   }

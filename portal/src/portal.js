@@ -25,7 +25,12 @@ async function init() {
   applications.push(
     loadApp("vueApp", "/vueApp", "/vueApp/entry.js", "/vueApp/store.js", globalEventdistributor)
   );
-
+  applications.push(
+    loadApp("a1App", "/a1App", "/a1App/entry.js", "/a1App/store.js", globalEventdistributor)
+  );
+  applications.push(
+    loadApp("a7App", "/a7App", "/a7App/entry.js", "/a7App/store.js", globalEventdistributor)
+  );
   await Promise.all(applications);
 
   singleSpa.start();
