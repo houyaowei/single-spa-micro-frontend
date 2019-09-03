@@ -22,3 +22,7 @@ micro-frontend base on single-spa
 
 - start the main page
  > http://localhost:8000   
+
+#### routing commucation
+
+history
