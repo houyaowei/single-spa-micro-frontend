@@ -1,0 +1,11 @@
+.sass-cache/
+*.css.map
+.DS_Store
+.idea/
+.vscode/
+node_modules/
+npm-debug.log
+*.iml
+customer-insight/
+yarn.lock
+package-lock.json
