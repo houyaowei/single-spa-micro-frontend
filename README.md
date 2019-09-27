@@ -1,6 +1,7 @@
 # single-spa-micro-frontend
 micro-frontend base on single-spa
 
+
 ### architecuture pic
 
 <img src="https://github.com/houyaowei/single-spa-micro-frontend/blob/master/assets/Micro-frontend.png" />
@@ -26,3 +27,8 @@ micro-frontend base on single-spa
 #### routing commucation
 
 history
+
+### NOTE
+this repo is based on a very old systemjs(@0.20.19). It may be occured unknown errors that you can't resolve, and you alse may not get any reference. 
+
+you can get new demo from [here](https://github.com/houyaowei/later-single-spa-micro-frontend)
