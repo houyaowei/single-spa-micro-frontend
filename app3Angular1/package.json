@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "@uirouter/angularjs": "^1.0.22",
-    "angular": "^1.6.9",
+    "angular": "^1.7.9",
     "html-loader": "^0.5.5",
     "ng-redux": "^4.4.0",
     "redux": "^4.0.4",
