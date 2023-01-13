@@ -23,7 +23,7 @@
     "@vue/cli-plugin-eslint": "^3.0.0-beta.15",
     "@vue/cli-service": "^3.0.0-beta.15",
     "vue-template-compiler": "^2.6.10",
-    "webpack-cli": "^3.0.8"
+    "webpack-cli": "^3.3.12"
   },
   "eslintConfig": {
     "root": true,
